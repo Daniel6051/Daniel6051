@@ -81,7 +81,10 @@ Multithreaded server with a Swing client supporting simultaneous connections, in
 
 ## 📊 GitHub Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Daniel6051&theme=transparent)](https://git.io/streak-stats)
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Daniel6051&show_icons=true&theme=transparent&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel6051&layout=compact&theme=transparent&hide_border=true" />
+</p>
 
 ---
 
