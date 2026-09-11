@@ -82,10 +82,9 @@ Multithreaded server with a Swing client supporting simultaneous connections, in
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Daniel6051&show_icons=true&theme=transparent&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel6051&layout=compact&theme=transparent&hide_border=true" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Daniel6051&theme=transparent" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Daniel6051&theme=transparent" />
 </p>
-
 ---
 
 ## 📫 Get in touch
