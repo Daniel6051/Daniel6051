@@ -10,19 +10,45 @@ I build real projects — desktop apps, web platforms, multiplayer chat servers,
 ## 🛠️ Tech Stack
 
 **Languages**
-`Java` · `Python` · `JavaScript` · `PHP` · `C++` · `HTML/CSS` · `SQL`
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 **Frameworks & Libraries**
-`Node.js` · `Express` · `Bootstrap` · `tkinter` · `Swing` · `SQLAlchemy` · `ReportLab`
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![tkinter](https://img.shields.io/badge/tkinter-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Swing](https://img.shields.io/badge/Swing-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
+![ReportLab](https://img.shields.io/badge/ReportLab-003087?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)
 
 **Databases**
-`MySQL` — relational design, advanced queries, ORM integration
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 **Tools & Practices**
-`Git / GitHub` · `MVC pattern` · `OOP` · `Agile methodology` · `Trello`
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![MVC](https://img.shields.io/badge/MVC_Pattern-007396?style=for-the-badge&logo=structurizr&logoColor=white)
+![OOP](https://img.shields.io/badge/OOP-6DB33F?style=for-the-badge&logo=blueprint&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 
 **AI / ML**
-Neural networks · Perceptron · Supervised classification · TensorFlow Playground
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Neural Networks](https://img.shields.io/badge/Neural_Networks-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Perceptron](https://img.shields.io/badge/Perceptron-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Supervised Learning](https://img.shields.io/badge/Supervised_Learning-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ---
 
