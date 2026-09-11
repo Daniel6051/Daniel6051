@@ -81,10 +81,7 @@ Multithreaded server with a Swing client supporting simultaneous connections, in
 
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Daniel6051&theme=transparent" />
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Daniel6051&theme=transparent" />
-</p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Daniel6051&theme=transparent)](https://git.io/streak-stats)
 ---
 
 ## 📫 Get in touch
